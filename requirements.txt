@@ -8,6 +8,5 @@ Pillow==9.5.0
 tiktoken==0.5.1
 duckduckgo-search==6.2.10
 pypdf==3.16.4
-faiss-cpu==1.7.4
 chromadb
 youtube-transcript-api==0.6.1
