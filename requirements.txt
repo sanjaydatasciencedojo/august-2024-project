@@ -11,6 +11,7 @@ chromadb
 tiktoken
 faiss-cpu
 Pillow
+wikipedia
  
 # Additional Dependencies
 setuptools>=42
